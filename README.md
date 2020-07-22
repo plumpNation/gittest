@@ -1,2 +1,2 @@
 # gittest
-Just a place to test git behaviour
+Just a place to test git behaviour, some hotfix
